@@ -10,7 +10,7 @@ insert into edudata (
   name
   ,age
 ) VALUES (  
-  '홍길동'  -- name - IN varchar(25)
+  'john'  -- name - IN varchar(25)
   ,30   -- age - IN int(11)
 );
 
@@ -18,7 +18,7 @@ insert into edudata (
   name
   ,age
 ) VALUES (  
-  '홍길순'  -- name - IN varchar(25)
+  'tom'  -- name - IN varchar(25)
   ,28   -- age - IN int(11)
 );
 
@@ -26,6 +26,6 @@ insert into edudata (
   name
   ,age
 ) VALUES (  
-  '홍길영'  -- name - IN varchar(25)
+  'jacson'  -- name - IN varchar(25)
   ,3   -- age - IN int(11)
 );
