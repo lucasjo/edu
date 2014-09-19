@@ -47,8 +47,8 @@
 			<version>5.1.25</version>
 		</dependency>
 		<dependency>
-			<groupId>javax.servlet.jsp.jstl</groupId>
-			<artifactId>jstl-api</artifactId>
+			<groupId>jstl</groupId>
+			<artifactId>jstl</artifactId>
 			<version>1.2</version>
 		</dependency>           
 	</dependencies>
